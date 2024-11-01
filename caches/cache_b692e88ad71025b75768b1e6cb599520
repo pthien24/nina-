@@ -1,0 +1,36 @@
+a:2:{i:0;i:1719636971;i:1;a:8:{s:2:"id";s:1:"1";s:7:"options";s:1742:"{"mailertype":"1","ip_host":"103.77.162.21","port_host":"25","secure_host":"tls","email_host":"contact@phuongquocco.com","password_host":"WVmIDZc.wK};","host_gmail":"smtp.gmail.com","port_gmail":"587","secure_gmail":"tls","email_gmail":"autosendnoreply01@gmail.com","password_gmail":"ntfocjyshxgoxqbg","lang_default":"vi","address":"1387A C\u00e1ch M\u1ea1ng Th\u00e1ng T\u00e1m, P.Ph\u00fa Th\u1ecd, TP.Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng","email":"thuyhang22@yahoo.com","hotline":"0902711157","phone":"0966342792","zalo":"0937711157","oaidzalo":"","website":"https:\/\/phuongquocco.com\/","fanpage":"https:\/\/www.facebook.com\/profile.php?id=100063991747100","toado":"","toado_iframe":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3919.4481760094527!2d106.68480041483649!3d10.776945462130913!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f3b27d8a7fd%3A0xdb0d92470911a699!2sThe%20Box%20Market!5e0!3m2!1svi!2s!4v1589339784678!5m2!1svi!2s\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"><\/iframe>","coords":"9.982851, 105.933084","coords_iframe":"<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m18!1m12!1m3!1d3917.036482612561!2d106.6735588749479!3d10.960616789199541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d6d5f613534b%3A0x35b34574fe7c0b4a!2zQ3R5IFNYIETDonkgTmlsb24gUGjGsMahbmcgUXXhu5Fj!5e0!3m2!1svi!2s!4v1683952124904!5m2!1svi!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>","colorSite":"CC0000","hotline2":"0937711157","chiduong":"https:\/\/goo.gl\/maps\/BhH5SwYXePm3m5M46"}";s:10:"mastertool";s:0:"";s:6:"headjs";s:0:"";s:6:"bodyjs";s:981:"    &lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+
+    
+    &lt;div id=&quot;fb-customer-chat&quot; class=&quot;fb-customerchat&quot;&gt;
+    &lt;/div&gt;
+
+    &lt;script&gt;
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute(&quot;page_id&quot;, &quot;234596437320823&quot;);
+      chatbox.setAttribute(&quot;attribution&quot;, &quot;biz_inbox&quot;);
+    &lt;/script&gt;
+
+    
+    &lt;script&gt;
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v16.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    &lt;/script&gt;";s:6:"namevi";s:33:"CTY TNHH SX TM DV PHƯƠNG QUỐC";s:6:"nameen";s:16:"Sneaker Shoes EN";s:9:"analytics";s:298:"&lt;script async src=&quot;https://www.googletagmanager.com/gtag/js?id=G-Y7835LKD6K&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y7835LKD6K');
+&lt;/script&gt;";}}

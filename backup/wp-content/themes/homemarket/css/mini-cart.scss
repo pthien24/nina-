@@ -1,0 +1,171 @@
+/*=======================================
+			Mini Cart style
+=======================================*/
+
+.homemarket-mini-cart {
+	background: #fbfbfb;
+	border: 1px solid #e9e9e9;
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	overflow-x: hidden;
+	overflow-y: auto;
+	padding: 7.5px;
+	width: 300px;
+	transition: all .4s;
+	transform: translateX(300px);
+
+	.widget_shopping_cart_content {
+		h3 {
+			border-bottom: 1px solid #e9e9e9;
+			color: #2c2c2c;
+			font-family: Lato;
+			font-weight: normal;
+			padding: 12px 0;
+			text-transform: uppercase;
+		}
+
+		.product_list_widget {
+			li.mini_cart_item {
+				padding: 0 28px 11px 0;
+				margin-bottom: 20px;
+				border-bottom: 1px solid #e9e9e9;
+
+				a.remove {
+					right: 0;
+					left: initial;
+					color: #333333 !important;
+					transition: all .3s;
+				}
+
+				a.remove:hover {
+					background: transparent;
+					color: #fa5555 !important;
+				}
+
+				img.attachment-shop_thumbnail {
+					float: left;
+					width: 70px;
+					margin: 0 15px 0 0;
+				}
+
+				a:nth-child(2) {
+					font-size: 14px;
+					font-weight: normal;
+					color: #333333;
+					transition: all .3s;
+				}
+
+				a:nth-child(2):hover {
+					color: #fa5555;
+				}
+
+				.product_cart_info {
+					float: left;
+					margin-top: 10px;
+
+					dl.variation {
+						padding: 0px;
+						border: none;
+
+						dd {
+							margin: 0 0 0 15px;
+						}
+
+						dt, dd {
+							padding: 0;
+						}
+					}
+
+					span.quantity {
+						display: block;
+						margin-top: 10px;
+
+						span.woocommerce-Price-amount {
+							font-size: 18px;
+							font-weight: normal;
+							color: #fa5555;
+						}
+					}
+				}
+				
+				&:after {
+					content: '';
+					display: block;
+					clear: both;
+				}
+			}
+		}
+
+		p.total {
+			border: none;
+			margin-bottom: 15px;
+
+			strong {
+				display: inline-block;
+				font-size: 15px;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+
+			span.woocommerce-Price-amount {
+				display: block;
+				float: right;
+				font-size: 20px;
+				font-weight: bold;
+				color: #fa5555;
+			}
+		}
+
+		p.buttons {
+			a.button {
+				border-radius: 0;
+				display: block;
+				font-family: Lato;
+				font-size: 14px;
+				line-height: 20px;
+				margin-bottom: 10px;
+				padding: 10px 20px;
+				text-align: center;
+				text-transform: uppercase;
+				background: #e5e5e5;
+				color: #666666;
+				transition: all .3s;
+			}
+
+			a.button:hover {
+				background: #fa5555;
+				color: #ffffff;	
+			}
+
+			a.button.checkout {
+				background: #fa5555;
+				color: #ffffff;
+			}
+
+			a.button.checkout:hover {
+				background: #e5e5e5;
+				color: #666666;
+			}
+		}
+	}
+}
+
+.homemarket-mini-cart.opened {
+	transform: translateX(0);
+}
+
+body.admin-bar {
+	.homemarket-mini-cart {
+		margin-top: 32px;
+	}
+}
+
+html {
+	overflow-y: visible;
+}
+
+html.opened {
+	overflow: hidden;
+}

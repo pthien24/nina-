@@ -1,0 +1,250 @@
+/*========================================================
+					 Account Page Template Style
+==========================================================*/
+
+.woocommerce {
+	#login-form, 
+	#register-form {
+		h3 {
+			color: #2c2c2c;
+			font-size: 22px;
+			font-weight: bold;
+			text-transform: uppercase;
+		}
+
+		form {
+			margin-top: 11px;
+			padding: 0;
+			border: none;
+
+			p {
+				text-align: center;
+
+				input {
+					border-radius: 0;
+				}
+
+				input.woocommerce-Button {
+					display: block;
+					width: 100%;
+					background: #fa5555;
+					color: #ffffff;
+					text-transform: uppercase;
+					font-family: Lato;
+					font-size: 14px;
+					transition: all .3s;
+				}
+
+				input.woocommerce-Button:hover {
+					background: #e5e5e5;
+					color: #666666;
+				}
+
+				label {
+					display: block;
+					padding: 0;
+					margin-top: 15px;
+					color: #696969;
+
+					input#rememberme {
+						position: relative;
+						left: 0;
+						top: 2px;
+					}
+				}
+
+				a {
+					color: #696969;
+				}
+
+				a:hover, label:hover {
+					color: #fa5555;
+				}
+			}
+		}
+	}
+
+	.lost_reset_password {
+		h3 {
+			color: #2c2c2c;
+			font-size: 22px;
+			font-weight: bold;
+			text-transform: uppercase;
+		}
+
+		p.description {
+			color: #696969;
+		}
+
+		p.form-row {
+			#user_login {
+				border-radius: 0;
+			}
+
+			input.woocommerce-Button {
+				float: left;
+				border-radius: 0;
+				display: block;
+				background: #fa5555;
+				color: #ffffff;
+				text-transform: uppercase;
+				font-family: Lato;
+				font-size: 14px;
+				transition: all .3s;
+			}
+
+			input.woocommerce-Button:hover {
+				background: #e5e5e5;
+				color: #666666;
+			}
+
+			a.back-login {
+				float: right;
+				background: #e5e5e5;
+				color: #666666;
+				border-radius: 0;
+				display: block;
+				text-transform: uppercase;
+				font-family: Lato;
+				font-size: 14px;
+				transition: all .3s;
+				font-weight: bold;
+				padding: 8px 14px;
+			}
+
+			a.back-login:hover {
+				background: #fa5555;
+				color: #ffffff;
+			}
+		}
+	}
+
+	.woocommerce-MyAccount-navigation {
+		ul {
+			li {
+				margin: 0;
+				padding: 0;
+				display: block;
+				position: relative;
+
+				a {
+					transition: background 0.3s;
+					border-bottom: 1px solid #ededed;
+					padding: 8px 0 8px 20px;
+					display: block;
+					color: #666666;
+					font-size: 0.9em;
+					text-decoration: none;	
+				}
+
+				a:hover {
+					background: #eeeeee;
+					text-decoration: none;
+				}
+
+				a:before {
+					content: "";
+					display: inline-block;
+					width: 0;
+					height: 4px;
+					border-top: 4px solid transparent;
+					border-bottom: 4px solid transparent;
+					border-left: 4px solid #333333;
+					position: absolute;
+					top: 15px;
+					left: 10px;
+				}
+			}
+
+			li.is-active {
+				> a {
+					font-weight: bold;
+					background: #f5f5f5
+				}
+			}
+		}
+	}
+
+	.woocommerce-MyAccount-content {
+		.MyAccount-featured-box {
+			margin-top: 0;
+			margin-bottom: 30px;
+			text-align: left;
+			background: #f5f5f5;
+		    background-color: #f5f5f5;
+		    background: - webkit-linear-gradient(top, #fff 1%, #f9f9f9 98%) repeat scroll 0 0 #f5f5f5;
+		    background: linear-gradient(to bottom, #fff 1%, #f9f9f9 98%) repeat scroll 0 0 #f5f5f5;
+		    -webkit-box-sizing: border-box;
+		    -moz-box-sizing: border-box;
+		    box-sizing: border-box;
+		    border-bottom: 1px solid #dfdfdf;
+		    border-left: 1px solid #ececec;
+		    border-right: 1px solid #ececec;
+		    border-radius: 0;
+		    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.04);
+		    min-height: 100px;
+		    position: relative;
+		    z-index: 1;
+
+		    .box-content {
+		    	border-top: 4px solid #fa5555;
+		    	border-radius: 0;
+		    	position: relative;
+		    	top: -1px;
+		    	padding: 30px 16px 10px 16px;
+
+		    	p {
+		    		margin-bottom: 20px;
+		    	}
+
+		    	table.shop_table {
+		    		border: none;
+		    		box-shadow: none;
+		    		border-radius: 0;
+		    		font-size: 14px;
+
+		    		th, td {
+		    			border: none;
+		    			padding: 8px;
+		    		}
+
+		    		td {
+		    			border-top: 1px solid #dddddd;
+		    		}
+
+		    		.order-actions {
+		    			text-align: left;
+		    		}
+		    	}
+
+		    	h3 {
+		    		font-size: 16px;
+		    	}
+
+		    	input {
+		    		border-radius: 0;
+		    		height: 40px;
+		    	}
+
+		    	a:hover {
+		    		opacity: 0.8;
+		    		text-decoration: underline;
+		    	}
+
+		    	fieldset {
+		    		margin-bottom: 15px;
+		    	}
+		    }
+		}
+	}
+
+	#respond input#submit, a.button, button.button, input.button {
+		border-radius: 0;
+		font-family: Lato;
+		font-weight: bold;
+		font-size: 14px;
+		color: #ffffff;
+		background: #fa5555;
+		transition: all .3s;
+	}
+}

@@ -1,0 +1,3272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-03 11:49+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:10
+msgid "Oops 404 again! That page can't be found."
+msgstr ""
+
+#: comments.php:7
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18
+#, php-format
+msgctxt "comments title"
+msgid "Comment (1)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: content-blog.php:42
+msgid "Read More ..."
+msgstr ""
+
+#: content-post-item.php:8
+msgid "by"
+msgstr ""
+
+#: content-post.php:24
+msgid "Pages:"
+msgstr ""
+
+#: content-post.php:28
+msgid "Page"
+msgstr ""
+
+#: content-post.php:36
+msgid "Share This Post"
+msgstr ""
+
+#: content-post.php:43 inc/js_composer/js_composer.php:34
+msgid "Author"
+msgstr ""
+
+#: functions.php:73
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:74
+msgid "Collections Navigation"
+msgstr ""
+
+#: functions.php:75
+msgid "Footer Menu Navigation"
+msgstr ""
+
+#: functions.php:195
+msgid "Close"
+msgstr ""
+
+#: functions.php:196 woocommerce/myaccount/orders.php:97
+msgid "Previous"
+msgstr ""
+
+#: functions.php:197 woocommerce/myaccount/orders.php:101
+msgid "Next"
+msgstr ""
+
+#: functions.php:198
+msgid "The requested content cannot be loaded.<br/>Please try again later."
+msgstr ""
+
+#: functions.php:201
+msgid "Filtering Results..."
+msgstr ""
+
+#: functions.php:202
+msgid "Sorry, an error ocurred while filtering products. Please, try again."
+msgstr ""
+
+#: functions.php:301
+msgid "Edit"
+msgstr ""
+
+#: functions.php:302
+msgid "Reply"
+msgstr ""
+
+#: functions.php:307
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:312
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: header.php:45
+msgid "Browse"
+msgstr ""
+
+#: single.php:29
+msgid "Article page"
+msgstr ""
+
+#: inc/admin/admin.php:72 inc/admin/admin.php:73
+msgid "Menu Marker"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:81
+msgid "Welcome to Homemarket"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:83
+msgid ""
+"Homemarket is now installed and ready to use! Please install below "
+"recommened plugins. We hope you enjoy it!"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:86
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:91
+msgid "Click here to install plugins all together."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:95
+msgid "Click here to activate plugins all together."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:99
+msgid "Click here to update plugins all together."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:125
+#, php-format
+msgid "Version: %1s"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:127
+#, php-format
+msgid "Available Version: %s"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:133
+#, php-format
+msgid "Active: %s"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:143
+#, php-format
+msgid "Update Available: Version %s"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:148
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2407
+msgid "Required"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:191 inc/admin/homemarket_welcome.php:404
+msgid "Remote Get"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:204
+msgid "Demo Import"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:206
+msgid "Importer"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:208
+msgid "System Status"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:216
+msgid "Install Options"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:217
+msgid "Import theme options"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:219
+msgid "Reset menus"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:220
+msgid "Reset widgets"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:221
+msgid "Import dummy content"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:222
+msgid "Import widgets"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:223
+msgid "Do you want to install demo? It can also take a minute to complete."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:224
+#: inc/admin/theme_options/homemarket.config.php:870
+#: inc/admin/theme_options/homemarket.config.php:878
+#: inc/admin/theme_options/homemarket.config.php:886
+#: inc/admin/theme_options/homemarket.config.php:894
+#: inc/admin/theme_options/homemarket.config.php:1076
+#: inc/admin/theme_options/homemarket.config.php:1090
+#: inc/admin/theme_options/homemarket.config.php:1119
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:225
+#: inc/admin/theme_options/homemarket.config.php:871
+#: inc/admin/theme_options/homemarket.config.php:879
+#: inc/admin/theme_options/homemarket.config.php:887
+#: inc/admin/theme_options/homemarket.config.php:895
+#: inc/admin/theme_options/homemarket.config.php:1077
+#: inc/admin/theme_options/homemarket.config.php:1091
+#: inc/admin/theme_options/homemarket.config.php:1120
+msgid "No"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:237
+msgid ""
+"The demo importing process failed. Please check the <a href=\"javascript:void"
+"(0)\" class=\"system-status-toggle\">System Status</a>. It should help you "
+"understand if some of the requirements aren’t met. "
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:242
+msgid ""
+"Please check the <a href=\"javascript:void(0)\" class=\"system-status-toggle"
+"\">System Status</a> before importing the demo content to make sure the "
+"importing process won’t fail."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:255
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2852
+msgid "Install"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:262
+msgid ""
+"Install the <strong>Required Plugins</strong> above<br/> before importing "
+"the demo content."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:278
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:298
+msgid "<span>Not installed/activated.</span>"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:312
+msgid "Server Environment"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:320
+msgid "Server Memory Limit"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:334
+msgid "The recommended value is 256M."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:340
+msgid "PHP Time Limit"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:353
+msgid "The recommended value is 30."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:360
+msgid "Max Upload Size"
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:374
+msgid "The recommended value is 12M."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:384
+msgid ""
+"Payment gateways can use cURL to communicate with remote servers to "
+"authorize payments, other plugins may also use it when communicating with "
+"remote services."
+msgstr ""
+
+#: inc/admin/homemarket_welcome.php:416
+msgid "Remote file open"
+msgstr ""
+
+#: inc/admin/menu_marker.php:52 inc/js_composer/js_composer.php:33
+msgid "ID"
+msgstr ""
+
+#: inc/admin/menu_marker.php:53
+msgid "Marker Name"
+msgstr ""
+
+#: inc/admin/menu_marker.php:54
+msgid "Marker Slug"
+msgstr ""
+
+#: inc/admin/menu_marker.php:55 inc/js_composer/js_composer.php:772
+msgid "Background Color"
+msgstr ""
+
+#: inc/admin/menu_marker.php:228 inc/admin/menu_marker.php:314
+#: woocommerce/single-product-reviews.php:64
+msgid "Name"
+msgstr ""
+
+#: inc/admin/menu_marker.php:230 inc/admin/menu_marker.php:316
+msgid "The name is how it appears on your site."
+msgstr ""
+
+#: inc/admin/menu_marker.php:233 inc/admin/menu_marker.php:320
+msgid "Slug"
+msgstr ""
+
+#: inc/admin/menu_marker.php:238 inc/admin/menu_marker.php:326
+msgid "Marker Background Color"
+msgstr ""
+
+#: inc/admin/menu_marker.php:240 inc/admin/menu_marker.php:328
+msgid ""
+"The marker background color can be changed. You can select background color "
+"here."
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:23
+#: inc/admin/theme_options/homemarket.config.php:47
+msgid "Theme Options"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:178
+msgid "Header Style & Layout"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:184
+msgid "Header Layout"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:212
+msgid "Main Menu Font Size"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:223
+msgid "Main Menu Font Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:231
+msgid "Main Menu Hover Font Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:239
+msgid "Submenu Label Font Size"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:250
+msgid "Submenu Label Font Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:258
+msgid "Submenu Font Size"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:269
+msgid "Submenu Font Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:284
+msgid "Spacing Logo Top"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:295
+msgid "Spacing Logo bottom"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:306
+msgid "Spacing Menu Bar Top"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:317
+msgid "Spacing Menu Bar Bottom"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:335
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:345
+msgid "Menu Bar Background Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:355
+msgid "Menu Bar Background Hover Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:372
+msgid "Header Icon Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:380
+msgid "Header Icon Text Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:395
+msgid "Search & Collection Box Background"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:403
+msgid "Theme & Search & Collection Box Border Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:415
+msgid "Header Elements"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:450
+#: inc/admin/theme_options/homemarket.config.php:479
+#: inc/admin/theme_options/homemarket.config.php:501
+#: inc/admin/theme_options/homemarket.config.php:540
+#: inc/admin/theme_options/homemarket.config.php:562
+#: inc/admin/theme_options/homemarket.config.php:611
+#: inc/admin/theme_options/homemarket.config.php:645
+#: inc/admin/theme_options/homemarket.config.php:951
+#: inc/admin/theme_options/homemarket.config.php:959
+#: inc/admin/theme_options/homemarket.config.php:1155
+msgid "Enabled"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:451
+#: inc/admin/theme_options/homemarket.config.php:480
+#: inc/admin/theme_options/homemarket.config.php:502
+#: inc/admin/theme_options/homemarket.config.php:541
+#: inc/admin/theme_options/homemarket.config.php:563
+#: inc/admin/theme_options/homemarket.config.php:612
+#: inc/admin/theme_options/homemarket.config.php:646
+#: inc/admin/theme_options/homemarket.config.php:952
+#: inc/admin/theme_options/homemarket.config.php:960
+#: inc/admin/theme_options/homemarket.config.php:1156
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:458
+msgid "Page URL(http://)"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:465
+msgid "Custom Store Location Icon"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:487
+msgid "Custom My Account Icon"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:509
+msgid "Cart Icon Function"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:510
+msgid "Mini Cart"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:511
+msgid "Page Link"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:519
+msgid "Custom Cart Icon"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:526
+msgid "Mini Cart Message"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:548
+msgid "Custom Search Icon"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:574
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:580
+msgid "Site Logo"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:589
+msgid "Logo Height"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:604
+#: inc/admin/theme_options/homemarket.config.php:610
+msgid "Top Bar"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:619
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:627
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:636
+msgid "Top Bar Text"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:644
+msgid "Top Bar Social Icons"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:654
+msgid "Top Bar Social Icons Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:715
+msgid "Footer"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:720
+msgid "Copyright"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:727
+msgid "Payments Image"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:736
+msgid "Payments Image Alt"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:743
+msgid "Payments Link URL"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:752
+msgid "Topbar"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:757
+msgid "Footer Top Bar Background Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:765
+msgid "Footer Top Bar Font Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:775
+msgid "Main Information"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:780
+msgid "Footer Main Content Background Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:788
+msgid "Footer Main Content Font Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:796
+msgid "Border Color"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:806
+msgid "Blog & Post"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:811
+msgid "Blog Page Layout"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:832
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:833
+msgid "The number of words"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:841
+msgid "Single Post"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:847
+msgid "Post Page Layout"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:868
+msgid "Show Title"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:876
+#: inc/admin/theme_options/homemarket.config.php:1074
+msgid "Show Social Share Links"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:884
+msgid "Show Author Info"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:892
+msgid "Show Comments"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:946
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:950
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:958
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:966
+msgid "Breadcrumbs Delimiter"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:970
+msgid "/"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:971
+msgid ">"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:977
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:988
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:993
+msgid "Add to Cart Label"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1003
+msgid "Product Archives"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1009
+#: inc/admin/theme_options/homemarket.config.php:1053
+msgid "Page Layout"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1038
+msgid "Products per Page"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1039
+msgid "Comma separated list of product counts."
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1047
+msgid "Single Product"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1081
+msgid "Custom Tabs Count"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1088
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1097
+msgid "Related Products Count"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1104
+msgid "Related Product Columns"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1117
+msgid "Show Up Sell Products"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1126
+msgid "Up Sell Products Count"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1133
+msgid "Up Sell Product Columns"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1148
+msgid "Product Image"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1154
+msgid "Show Thumbnails"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1163
+msgid "Thumbnails Count"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1192
+msgid "Fonts"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1199
+msgid "<h3>Main Font / Header Menu / body</h3>"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1224
+msgid "<h3>Alternative Font / Special</h3>"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1252
+msgid "Social Media"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1257
+msgid "<i class=\"fa fa-facebook\"></i> Facebook"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1264
+msgid "<i class=\"fa fa-twitter\"></i> Twitter"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1271
+msgid "<i class=\"fa fa-pinterest\"></i> Pinterest"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1278
+msgid "<i class=\"fa fa-linkedin\"></i> LinkedIn"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1284
+msgid "<i class=\"fa fa-google-plus\"></i> Google+"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1290
+msgid "<i class=\"fa fa-rss\"></i> RSS"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1296
+msgid "<i class=\"fa fa-tumblr\"></i> Tumblr"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1302
+msgid "<i class=\"fa fa-instagram\"></i> Instagram"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1309
+msgid "<i class=\"fa fa-youtube-play\"></i> Youtube"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1316
+msgid "<i class=\"fa fa-vimeo-square\"></i> Vimeo"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1322
+msgid "<i class=\"fa fa-behance\"></i> Behance"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1328
+msgid "<i class=\"fa fa-dribbble\"></i> Dribble"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1334
+msgid "<i class=\"fa fa-flickr\"></i> Flickr"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1340
+msgid "<i class=\"fa fa-git\"></i> Git"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1346
+msgid "<i class=\"fa fa-skype\"></i> Skype"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1352
+msgid "<i class=\"fa fa-weibo\"></i> Weibo"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1358
+msgid "<i class=\"fa fa-foursquare\"></i> Foursquare"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1364
+msgid "<i class=\"fa fa-soundcloud\"></i> Soundcloud"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1370
+msgid "<i class=\"fa fa-vk\"></i> VK"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1382
+msgid "Custom Code"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1387
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1388
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1395
+msgid "Header Javascript Code"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1396
+msgid ""
+"Paste your custom JS code here. This code will be added to the header of "
+"your site."
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1403
+msgid "Footer Javascript Code"
+msgstr ""
+
+#: inc/admin/theme_options/homemarket.config.php:1404
+msgid ""
+"Here is the place to paste your Google Analytics code or any other JS code "
+"you might want to add to be loaded in the footer of your website."
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:109
+msgid "Move up"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:122
+msgid "Move down"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:124
+#: inc/custom_nav_menu/edit-custom-walker.php:126
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:135
+msgid "URL"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:142
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:148
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:155
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:160
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:166
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:172
+#: inc/js_composer/js_composer.php:818 inc/js_composer/js_composer.php:1626
+#: inc/woocommerce/init.php:241
+msgid "Description"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:174
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:183
+msgid "Navigation Label Hidden"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:191
+msgid "Background Options"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:198
+msgid "Submenu Full Width"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:201
+msgid "Background URL"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:205
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:215
+msgid "Background Size"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:223
+msgid "Background Position"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:240
+msgid "Main Menu Marker"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:242
+msgid "--SELECT MARKER--"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:254
+msgid "Menu Featured Image"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:256
+msgid "Only Image URL (http://)"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:261
+msgid "Menu Icon"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:263
+msgid "Only Icon URL (http://)"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:268
+msgid "Custom Content"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:270
+msgid "Only contain html code."
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:279
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:292
+#: woocommerce/wishlist-view.php:89 woocommerce/wishlist-view.php:246
+#: woocommerce/cart/cart.php:101
+msgid "Remove"
+msgstr ""
+
+#: inc/custom_nav_menu/edit-custom-walker.php:293
+#: woocommerce/wishlist-view.php:45 woocommerce/myaccount/orders.php:66
+msgid "Cancel"
+msgstr ""
+
+#: inc/header/header-center.php:59 inc/header/header-normal.php:61
+#: inc/header/header-rightbox.php:61
+msgid "All Categories"
+msgstr ""
+
+#: inc/header/header-center.php:75 inc/header/header-normal.php:77
+#: inc/header/header-rightbox.php:77
+msgid "Search our store"
+msgstr ""
+
+#: inc/header/header-center.php:166 inc/header/header-center.php:171
+#: inc/header/header-normal.php:141 inc/header/header-normal.php:146
+#: inc/header/header-rightbox.php:141 inc/header/header-rightbox.php:146
+msgid "My Account"
+msgstr ""
+
+#: inc/header/header-center.php:177 inc/header/header-center.php:182
+#: inc/header/header-normal.php:152 inc/header/header-normal.php:157
+#: inc/header/header-rightbox.php:152 inc/header/header-rightbox.php:157
+msgid "Login / Register"
+msgstr ""
+
+#: inc/header/header-rightbox.php:202 inc/js_composer/js_composer.php:148
+msgid "All Collections"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:32
+msgid "Date"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:35 inc/js_composer/js_composer.php:232
+#: inc/js_composer/js_composer.php:310 inc/js_composer/js_composer.php:439
+#: inc/js_composer/js_composer.php:642 inc/js_composer/js_composer.php:784
+#: inc/js_composer/js_composer.php:1022 inc/js_composer/js_composer.php:1111
+#: inc/js_composer/js_composer.php:1197 inc/js_composer/js_composer.php:1381
+#: inc/js_composer/js_composer.php:1475 inc/js_composer/js_composer.php:1586
+#: inc/js_composer/js_composer.php:1621
+#: inc/widgets/widgets/ajax_fitler_price.php:38
+#: inc/widgets/widgets/best_seller.php:27
+#: inc/widgets/widgets/contact_info.php:82
+#: inc/widgets/widgets/product_extrainfo.php:76
+#: inc/widgets/widgets/recent_posts.php:115
+#: inc/widgets/widgets/social_link.php:174
+msgid "Title"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:36
+msgid "Modified"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:37
+msgid "Random"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:38
+msgid "Comment count"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:39
+msgid "Menu order"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:44
+msgid "Descending"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:45
+msgid "Ascending"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:54
+msgid "Select Menu"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:67
+msgid "Select Product Brand"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:93
+msgid "Extra class name"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:95
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:101
+msgid "Wrap as Container"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:103 inc/js_composer/js_composer.php:273
+#: inc/js_composer/js_composer.php:383 inc/js_composer/js_composer.php:390
+#: inc/js_composer/js_composer.php:397 inc/js_composer/js_composer.php:404
+#: inc/js_composer/js_composer.php:411 inc/js_composer/js_composer.php:422
+#: inc/js_composer/js_composer.php:505 inc/js_composer/js_composer.php:512
+#: inc/js_composer/js_composer.php:519 inc/js_composer/js_composer.php:526
+#: inc/js_composer/js_composer.php:533 inc/js_composer/js_composer.php:544
+#: inc/js_composer/js_composer.php:1089 inc/js_composer/js_composer.php:1095
+#: inc/js_composer/js_composer.php:1291
+msgid "Yes, please"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:104
+msgid "Container Option"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:110 inc/js_composer/js_composer.php:133
+#: inc/js_composer/js_composer.php:166 inc/js_composer/js_composer.php:190
+#: inc/js_composer/js_composer.php:227 inc/js_composer/js_composer.php:285
+#: inc/js_composer/js_composer.php:305 inc/js_composer/js_composer.php:434
+#: inc/js_composer/js_composer.php:557 inc/js_composer/js_composer.php:582
+#: inc/js_composer/js_composer.php:692 inc/js_composer/js_composer.php:846
+#: inc/js_composer/js_composer.php:983 inc/js_composer/js_composer.php:1017
+#: inc/js_composer/js_composer.php:1075 inc/js_composer/js_composer.php:1106
+#: inc/js_composer/js_composer.php:1192 inc/js_composer/js_composer.php:1376
+#: inc/js_composer/js_composer.php:1470 inc/js_composer/js_composer.php:1581
+#: inc/js_composer/js_composer.php:1616
+msgid "by SoapTheme"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:111
+msgid "Homemarket Tabs"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:112
+msgid "Homemarket Tab"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:113
+msgid "Tabbed content"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:113
+msgid " with homemarket style"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:117
+msgid "Tab Style"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:120 inc/js_composer/js_composer.php:265
+#: inc/js_composer/js_composer.php:369 inc/js_composer/js_composer.php:491
+#: inc/js_composer/js_composer.php:1055 inc/js_composer/js_composer.php:1118
+#: inc/js_composer/js_composer.php:1268 inc/js_composer/js_composer.php:1451
+#: inc/js_composer/js_composer.php:1561 inc/js_composer/js_composer.php:1594
+msgid "Style 1"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:121 inc/js_composer/js_composer.php:266
+#: inc/js_composer/js_composer.php:370 inc/js_composer/js_composer.php:492
+#: inc/js_composer/js_composer.php:1056 inc/js_composer/js_composer.php:1119
+#: inc/js_composer/js_composer.php:1269 inc/js_composer/js_composer.php:1452
+#: inc/js_composer/js_composer.php:1562 inc/js_composer/js_composer.php:1595
+msgid "Style 2"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:122
+msgid "Style 3"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:130
+msgid "Custom Menu"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:134
+msgid "Display custom menu"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:138
+msgid "Custom Menu List"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:145
+msgid "Custom Menu Title"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:147
+msgid ""
+"Enter menu title. If you don`t enter the title, default value is \"All "
+"Collections\""
+msgstr ""
+
+#: inc/js_composer/js_composer.php:152
+msgid "Menu Title bg Color"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:162
+msgid "Flex Slider"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:167
+msgid "FlexSlider Individual wrapper"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:171
+msgid "Animation"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:173
+msgid "FlexSlider Animation Type"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:175
+msgid "Fade"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:176
+msgid "Slider"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:186
+msgid "Flex Slider Individual"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:191
+msgid "FlexSlider Individual content"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:195
+msgid "Slider Featured Image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:197
+msgid "Select Slider Featured Image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:201
+msgid "Slider Thumbnail Image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:203
+msgid "Select Slider Thumbnail Image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:207
+msgid "Slider Thumbnail Title"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:209
+msgid "This title is only for Thumbnail Slider."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:213
+msgid "Slider Thumbnail Description"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:215
+msgid "This description is only for Thumbnail Slider."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:223
+msgid "Product Brands"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:228
+msgid "Display Product Brands Mark"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:237 inc/js_composer/js_composer.php:1027
+#: inc/js_composer/js_composer.php:1125 inc/js_composer/js_composer.php:1202
+#: inc/js_composer/js_composer.php:1386 inc/js_composer/js_composer.php:1480
+msgid "Display Setting"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:240 inc/js_composer/js_composer.php:319
+#: inc/js_composer/js_composer.php:448 inc/js_composer/js_composer.php:1030
+#: inc/js_composer/js_composer.php:1128 inc/js_composer/js_composer.php:1205
+#: inc/js_composer/js_composer.php:1389 inc/js_composer/js_composer.php:1483
+msgid "Grid"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:241 inc/js_composer/js_composer.php:318
+#: inc/js_composer/js_composer.php:447 inc/js_composer/js_composer.php:1031
+#: inc/js_composer/js_composer.php:1129 inc/js_composer/js_composer.php:1207
+#: inc/js_composer/js_composer.php:1391 inc/js_composer/js_composer.php:1485
+msgid "Carousel"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:248 inc/js_composer/js_composer.php:561
+#: inc/js_composer/js_composer.php:1038 inc/js_composer/js_composer.php:1136
+#: inc/js_composer/js_composer.php:1215 inc/js_composer/js_composer.php:1414
+#: inc/js_composer/js_composer.php:1508
+msgid "Display Columns Setting"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:262 inc/js_composer/js_composer.php:366
+#: inc/js_composer/js_composer.php:488 inc/js_composer/js_composer.php:1052
+#: inc/js_composer/js_composer.php:1265 inc/js_composer/js_composer.php:1448
+#: inc/js_composer/js_composer.php:1558
+msgid "Carousel Navigation Style"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:271 inc/js_composer/js_composer.php:381
+#: inc/js_composer/js_composer.php:503 inc/js_composer/js_composer.php:1289
+msgid "Border Box Layout"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:282
+msgid "Product Brand"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:287
+msgid "Display Product Brand Mark"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:291
+msgid "Product Brand List"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:302
+msgid "Product Category"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:306
+msgid "Show multiple products in a category using Carousel"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:315 inc/js_composer/js_composer.php:444
+msgid "Display Style"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:326 inc/js_composer/js_composer.php:590
+#: inc/js_composer/js_composer.php:1398 inc/js_composer/js_composer.php:1492
+msgid "Category"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:330 inc/js_composer/js_composer.php:1402
+#: inc/js_composer/js_composer.php:1496
+msgid "Product category list"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:334 inc/js_composer/js_composer.php:456
+#: inc/js_composer/js_composer.php:1150 inc/js_composer/js_composer.php:1406
+#: inc/js_composer/js_composer.php:1500
+msgid "Per page"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:338 inc/js_composer/js_composer.php:460
+#: inc/js_composer/js_composer.php:1154 inc/js_composer/js_composer.php:1410
+#: inc/js_composer/js_composer.php:1504
+msgid "How much items per page to show"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:342 inc/js_composer/js_composer.php:464
+#: inc/js_composer/js_composer.php:1600
+msgid "Columns"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:346 inc/js_composer/js_composer.php:468
+#: inc/js_composer/js_composer.php:1604
+msgid "How much columns grid"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:350 inc/js_composer/js_composer.php:472
+#: inc/js_composer/js_composer.php:1249 inc/js_composer/js_composer.php:1542
+msgid "Order by"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:354 inc/js_composer/js_composer.php:476
+#: inc/js_composer/js_composer.php:1253 inc/js_composer/js_composer.php:1546
+msgid "Select how to sort retrieved products."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:358 inc/js_composer/js_composer.php:480
+#: inc/js_composer/js_composer.php:1257 inc/js_composer/js_composer.php:1550
+msgid "Sort order"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:362 inc/js_composer/js_composer.php:484
+#: inc/js_composer/js_composer.php:1261 inc/js_composer/js_composer.php:1554
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:384 inc/js_composer/js_composer.php:391
+#: inc/js_composer/js_composer.php:398 inc/js_composer/js_composer.php:405
+#: inc/js_composer/js_composer.php:412 inc/js_composer/js_composer.php:423
+#: inc/js_composer/js_composer.php:506 inc/js_composer/js_composer.php:513
+#: inc/js_composer/js_composer.php:520 inc/js_composer/js_composer.php:527
+#: inc/js_composer/js_composer.php:534 inc/js_composer/js_composer.php:545
+msgid "Layout"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:388 inc/js_composer/js_composer.php:510
+#: inc/js_composer/js_composer.php:1296
+msgid "Hidden Product Rating"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:395 inc/js_composer/js_composer.php:517
+#: inc/js_composer/js_composer.php:1306
+msgid "Hidden Product Title"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:402 inc/js_composer/js_composer.php:524
+#: inc/js_composer/js_composer.php:1316
+msgid "Hidden Product Price"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:409 inc/js_composer/js_composer.php:531
+#: inc/js_composer/js_composer.php:1326
+msgid "Hidden Product Description"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:420 inc/js_composer/js_composer.php:542
+#: inc/js_composer/js_composer.php:1342
+msgid "Hidden Cart Button"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:431
+msgid "Sale Products"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:435
+msgid "List all products on sale using Carousel"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:449 inc/js_composer/js_composer.php:1206
+#: inc/js_composer/js_composer.php:1390 inc/js_composer/js_composer.php:1484
+msgid "List"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:553
+msgid "Image Blogs"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:579
+msgid "Image Blog"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:583
+msgid "Show Image with created category link"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:587
+msgid "Select Category or Taxonomy"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:591
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:592
+msgid "Custom"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:599
+msgid "Category Llist"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:609
+msgid "Taxonomy Llist"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:619
+msgid "Custom Link"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:621
+msgid "Enter the Custom Link (http://)"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:629
+#: inc/metaboxes/custom_product_taxonomy.php:26
+#: inc/metaboxes/custom_product_taxonomy.php:50
+msgid "Image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:631
+msgid "Featured Link Image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:635
+msgid "Image Size"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:637
+msgid ""
+"Enter image size (Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by theme). If you want to use theme default size, please "
+"leave this field as blank."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:644 inc/js_composer/js_composer.php:650
+#: inc/js_composer/js_composer.php:656 inc/js_composer/js_composer.php:667
+#: inc/js_composer/js_composer.php:681
+msgid "Text & Animation"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:648
+msgid "SubTitle"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:654 inc/js_composer/js_composer.php:824
+msgid "Text Color"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:660
+msgid "Text Align"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:663
+msgid "Left"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:664
+msgid "Center"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:665
+msgid "Right"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:671
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:674 inc/js_composer/js_composer.php:765
+msgid "None"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:675 inc/js_composer/js_composer.php:997
+msgid "Effect 1"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:676 inc/js_composer/js_composer.php:998
+msgid "Effect 2"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:677 inc/js_composer/js_composer.php:999
+msgid "Effect 3"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:678 inc/js_composer/js_composer.php:1000
+msgid "Effect 4"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:679 inc/js_composer/js_composer.php:1001
+msgid "Effect 5"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:689
+msgid "Info Box"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:693
+msgid "Add icon box with custom font icon"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:697
+msgid "Icon library"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:700
+msgid "Font Awesome"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:701
+msgid "Custom Image Icon"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:706 inc/js_composer/js_composer.php:715
+msgid "Select Icon"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:724
+msgid "Size of Icon(px)"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:730
+msgid "How big would you like it?"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:738
+msgid "Icon Font Color"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:748
+msgid "Image Width(px)"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:754
+msgid "Provide Image Width"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:762
+msgid "Icon Style"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:766
+msgid "Circle Background"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:767
+msgid "Square Background"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:786
+msgid "Provide the title for this icon box"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:790
+msgid "Title Font Weight"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:793
+msgid "Initial"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:794 inc/js_composer/js_composer.php:833
+msgid "Normal"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:795
+msgid "Bold"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:800
+msgid "Title Font Size(px)"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:809
+msgid "Title Bottom Space"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:820
+msgid "Provide the description for this icon box"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:830
+msgid "Text Vertical Align"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:834
+msgid "Middle"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:843
+msgid "Google Map"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:847
+msgid "Add Google Map on current page"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:851
+msgid "Width (in %)"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:857
+msgid "Height (in px)"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:863
+msgid "Map Type"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:866
+msgid "Roadmap"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:867
+msgid "Satellite"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:868
+msgid "Hybrid"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:869
+msgid "Terrain"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:874
+msgid "Map Center Position"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:875
+msgid "input Latitude & Longitude like this: 22.491, 89.758"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:880
+msgid "Map Zoom"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:886
+msgid "Max:20 Min:1"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:890
+msgid "Map Type Control"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:893 inc/js_composer/js_composer.php:903
+#: inc/js_composer/js_composer.php:913 inc/js_composer/js_composer.php:923
+#: inc/js_composer/js_composer.php:933 inc/js_composer/js_composer.php:1161
+#: inc/js_composer/js_composer.php:1170 inc/js_composer/js_composer.php:1179
+#: inc/js_composer/js_composer.php:1300 inc/js_composer/js_composer.php:1310
+#: inc/js_composer/js_composer.php:1320 inc/js_composer/js_composer.php:1330
+#: inc/js_composer/js_composer.php:1346
+msgid "Enable"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:894 inc/js_composer/js_composer.php:904
+#: inc/js_composer/js_composer.php:914 inc/js_composer/js_composer.php:924
+#: inc/js_composer/js_composer.php:934 inc/js_composer/js_composer.php:1162
+#: inc/js_composer/js_composer.php:1171 inc/js_composer/js_composer.php:1180
+#: inc/js_composer/js_composer.php:1299 inc/js_composer/js_composer.php:1309
+#: inc/js_composer/js_composer.php:1319 inc/js_composer/js_composer.php:1329
+#: inc/js_composer/js_composer.php:1345
+msgid "Disable"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:896 inc/js_composer/js_composer.php:906
+#: inc/js_composer/js_composer.php:916 inc/js_composer/js_composer.php:926
+#: inc/js_composer/js_composer.php:936 inc/js_composer/js_composer.php:1292
+#: inc/js_composer/js_composer.php:1302 inc/js_composer/js_composer.php:1312
+#: inc/js_composer/js_composer.php:1322 inc/js_composer/js_composer.php:1332
+#: inc/js_composer/js_composer.php:1348
+msgid "Advanced"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:900
+msgid "Map Navigation Control"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:910
+msgid "Map Scroll Wheel Control"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:920
+msgid "Map Street View Control"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:930
+msgid "Map Draggable Control"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:940
+msgid "Marker/Point icon"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:943
+msgid "Use Google Default"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:944
+msgid "Upload Custom Icon"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:946 inc/js_composer/js_composer.php:957
+msgid "Marker"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:950
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:952
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:961
+msgid "Google Styled Map"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:964
+msgid "Google Default Style"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:965
+msgid "Ultra Light with Labels"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:966
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:967
+msgid "Shades of Grey"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:968
+msgid "Blue Water"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:969
+msgid "Blue Dark Sea"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:970
+msgid "Midnight Commander"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:972
+msgid "Styling"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:980 inc/js_composer/js_composer.php:988
+msgid "Masonry Images"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:984
+msgid "Image Viewer by masonry"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:990
+msgid "Upload the masonry images"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:994
+msgid "CSS Animation"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1002
+msgid "Effect 6"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1003
+msgid "Effect 7"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1004
+msgid "Effect 8"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1013
+msgid "Featured Categories"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1018
+msgid "Display featured category with image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1072
+msgid "Featured Category"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1080
+msgid "Product Category List"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1087
+msgid "Display Category Title"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1093
+msgid "Display Product Counts"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1103
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1107
+msgid "Display recent posts"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1116 inc/js_composer/js_composer.php:1591
+msgid "Title Style"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1158
+msgid "Post Date"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1167
+msgid "Post Comment Counts"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1176
+msgid "Post Readmore"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1189
+msgid "Multi Products"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1193
+msgid "Show multiple products by ID or SKU."
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1208
+msgid "Carousel with List"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1229 inc/js_composer/js_composer.php:1428
+#: inc/js_composer/js_composer.php:1522
+msgid "Display Rows Setting"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1280
+msgid "Product Image Width"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1283
+msgid "Normal Width"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1284
+msgid "Half Width"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1352
+msgid "Products"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1361
+msgid "Enter List of Products"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1373
+msgid "Homemarket Best Selling Products"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1377
+msgid "List best selling products on sale"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1467
+msgid "Homemarket Recent Products"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1471
+msgid "Lists recent products"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1577
+msgid "Homemarket Content Blocks"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1582
+msgid "Custom Content Blocks"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1613
+msgid "Homemarket Content Block"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1617
+msgid "Custom Content Block"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1631
+msgid "Background Image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1633
+msgid "Upload the custom background image"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1637
+msgid "Block Link"
+msgstr ""
+
+#: inc/js_composer/js_composer.php:1639
+msgid "Enter the Link (http://)"
+msgstr ""
+
+#: inc/js_composer/vc_templates/vc_tabs.php:59
+msgid "Previous tab"
+msgstr ""
+
+#: inc/js_composer/vc_templates/vc_tabs.php:59
+msgid "Next tab"
+msgstr ""
+
+#: inc/metaboxes/custom_product_taxonomy.php:30
+#: inc/metaboxes/custom_product_taxonomy.php:63
+msgid "Add Image"
+msgstr ""
+
+#: inc/metaboxes/custom_product_taxonomy.php:31
+#: inc/metaboxes/custom_product_taxonomy.php:64
+#: inc/metaboxes/meta_boxes.php:135 inc/metaboxes/meta_boxes.php:151
+msgid "Remove Image"
+msgstr ""
+
+#: inc/metaboxes/meta_boxes.php:8
+msgid "General"
+msgstr ""
+
+#: inc/metaboxes/meta_boxes.php:111
+msgid "Select"
+msgstr ""
+
+#: inc/metaboxes/meta_boxes.php:134
+msgid "Upload Image"
+msgstr ""
+
+#: inc/metaboxes/meta_boxes.php:150
+msgid "Attach Image"
+msgstr ""
+
+#: inc/metaboxes/meta_boxes.php:235
+msgid "Transparent"
+msgstr ""
+
+#: inc/metaboxes/product.php:17
+#, php-format
+msgid "Product Custom Tab %d Title"
+msgstr ""
+
+#: inc/metaboxes/product.php:24
+#, php-format
+msgid "Product Custom Tab %d Content"
+msgstr ""
+
+#: inc/metaboxes/product.php:31
+#, php-format
+msgid "Product Custom Tab %d Priority"
+msgstr ""
+
+#: inc/metaboxes/product.php:32
+msgid ""
+"Input the custom tab priority. (Description: 10, Additional Information: 20, "
+"Reviews: 30, Default Global Tab: 60)"
+msgstr ""
+
+#: inc/metaboxes/product.php:51
+msgid "Product Custom Options"
+msgstr ""
+
+#: inc/plugins/plugins.php:132
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/plugins.php:133
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/plugins.php:134
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/plugins.php:135
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/plugins.php:136
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:138
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:139
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:141
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:143
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:144
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:145
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/plugins.php:146
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/plugins.php:147
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3294
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/plugins.php:148
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2668
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3715
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3087
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:637
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:638
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1053
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1053
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1056
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1056
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:1249
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3083
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2116
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2410
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2426
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2429
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2432
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2449
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2453
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2455
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2461
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2464
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2467
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2476
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2523
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2527
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2531
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2535
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2617
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2625
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2633
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2645
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2668
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2682
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2683
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2684
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2688
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2689
+msgid "Status"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2738
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2743
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2749
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2819
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2858
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2861
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2892
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2894
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2935
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:2937
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3043
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3069
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3293
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3633
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3636
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3638
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3642
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3644
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3644
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3652
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3644
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3652
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3645
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3647
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3650
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3652
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3653
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/tgm-plugin-activation/class-tgm-plugin-activation.php:3655
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/widgets/widgets.php:37
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:46
+msgid "Post Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:55
+msgid "Woo Category Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:64
+msgid "Woo Product Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:73
+msgid "Footer Top Widget"
+msgstr ""
+
+#: inc/widgets/widgets.php:82
+msgid "Footer Widget 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:91
+msgid "Footer Widget 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:100
+msgid "Footer Widget 3"
+msgstr ""
+
+#: inc/widgets/widgets.php:109
+msgid "Footer Widget 4"
+msgstr ""
+
+#: inc/widgets/widgets.php:118
+msgid "Footer Bottom Widget"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:11
+msgid "Generates a list of hierarchic taxonomies with ajax filtering."
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:15
+msgid "Homemarket: Ajax Taxonomy Filter"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:61
+msgid "New Title"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:106
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:111
+msgid "Options:"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:115
+msgid "Hide Widget if there are no terms to be displayed?"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:120
+msgid "Hide terms that have no related posts?"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:124
+msgid "Order Terms By:"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:126
+msgid "ID Ascending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:127
+msgid "ID Descending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:128
+msgid "Count Ascending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:129
+msgid "Count Descending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:130
+msgid "Name Ascending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:131
+msgid "Name Descending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:132
+msgid "Slug Ascending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:133
+msgid "Slug Descending"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:138
+msgid "Maximum Number Of Terms To Return:"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:143
+msgid "Ids To Exclude From Being Displayed:"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:148
+msgid "Only Display Terms With The Following Ids:"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_filter_taxonomies.php:153
+msgid "Selected Taxonomy:"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_fitler_price.php:14
+msgid ""
+"Show a price filter widget with a list of preset price ranges that users can "
+"use to better narrow down the products"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_fitler_price.php:16
+msgid "Homemarket: Ajax Price List Filter"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_fitler_price.php:45
+msgid "Price Range"
+msgstr ""
+
+#: inc/widgets/widgets/ajax_fitler_price.php:60
+msgid "Add new range"
+msgstr ""
+
+#: inc/widgets/widgets/best_seller.php:20
+msgid "Display a list of your best seller products on your site."
+msgstr ""
+
+#: inc/widgets/widgets/best_seller.php:22
+msgid "Homemarket: Best Seller Products"
+msgstr ""
+
+#: inc/widgets/widgets/best_seller.php:26
+msgid "Best Sellers"
+msgstr ""
+
+#: inc/widgets/widgets/best_seller.php:35
+msgid "Number of products to show"
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:11
+msgid "Add contact information."
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:15
+msgid "Homemarket: Contact Info"
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:76
+msgid "Contact Us"
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:89
+#: inc/widgets/widgets/social_link.php:186
+msgid "Before Description"
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:96
+msgid "Address"
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:103
+msgid "Phone"
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:110
+#: woocommerce/single-product-reviews.php:66
+#: woocommerce/myaccount/form-lost-password.php:26
+msgid "Email"
+msgstr ""
+
+#: inc/widgets/widgets/contact_info.php:117
+#: inc/widgets/widgets/social_link.php:319
+msgid "After Description"
+msgstr ""
+
+#: inc/widgets/widgets/image_blog.php:11
+msgid "Display image blog in widget area."
+msgstr ""
+
+#: inc/widgets/widgets/image_blog.php:15
+msgid "Homemarket: Image Blog"
+msgstr ""
+
+#: inc/widgets/widgets/image_blog.php:47
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:11
+msgid "Add product extra info in sidebar"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:15
+msgid "Homemarket: Product ExtraInfo"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:70
+msgid "Guarantee"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:70
+msgid "Quality Checked"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:83
+msgid "Icon"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:85
+msgid "Font Awesome icon code (EX:fa-circle)"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:91
+msgid "ExtraInfo Header"
+msgstr ""
+
+#: inc/widgets/widgets/product_extrainfo.php:98
+msgid "ExtraInfo Description"
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:13
+msgid "Show recent posts."
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:17
+msgid "Homemarket: Recent Posts"
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:106
+msgid "RECENT POST"
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:121
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:127
+msgid "Number of items per slide"
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:133
+msgid "Category IDs"
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:139
+msgid "Hide Post Date"
+msgstr ""
+
+#: inc/widgets/widgets/recent_posts.php:143
+msgid "Hide Post Author"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:12
+msgid "Add Social Links."
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:16
+msgid "Homemarket: Social Link"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:61
+#: inc/widgets/widgets/social_link.php:193
+msgid "Facebook"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:65
+#: inc/widgets/widgets/social_link.php:200
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:69
+#: inc/widgets/widgets/social_link.php:207
+msgid "RSS"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:73
+#: inc/widgets/widgets/social_link.php:214
+msgid "Pinterest"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:77
+#: inc/widgets/widgets/social_link.php:221
+msgid "Youtube"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:81
+#: inc/widgets/widgets/social_link.php:228
+msgid "Instagram"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:85
+#: inc/widgets/widgets/social_link.php:235
+msgid "Skype"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:89
+#: inc/widgets/widgets/social_link.php:242
+msgid "Linkedin"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:93
+#: inc/widgets/widgets/social_link.php:249
+msgid "Google +"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:97
+#: inc/widgets/widgets/social_link.php:256
+msgid "VK"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:101
+#: inc/widgets/widgets/social_link.php:263
+msgid "Xing"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:105
+#: inc/widgets/widgets/social_link.php:270
+msgid "Tumblr"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:109
+#: inc/widgets/widgets/social_link.php:277
+msgid "Reddit"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:113
+#: inc/widgets/widgets/social_link.php:284
+msgid "Vimeo"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:117
+#: inc/widgets/widgets/social_link.php:291
+msgid "Telegram"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:121
+#: inc/widgets/widgets/social_link.php:298
+msgid "Yelp"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:125
+#: inc/widgets/widgets/social_link.php:305
+msgid "Flickr"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:129
+#: inc/widgets/widgets/social_link.php:312
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:169
+msgid "Social Link"
+msgstr ""
+
+#: inc/widgets/widgets/social_link.php:181
+msgid "Add rel=\"nofollow\" to links"
+msgstr ""
+
+#: inc/widgets/widgets/widget-views/taxonomies-filter-ui.php:69
+msgid "Filter"
+msgstr ""
+
+#: inc/woocommerce/init.php:91 inc/woocommerce/init.php:103
+msgid "Add to cart"
+msgstr ""
+
+#: inc/woocommerce/init.php:101 inc/woocommerce/init.php:103
+msgid "Read more"
+msgstr ""
+
+#: inc/woocommerce/init.php:158
+msgid "Grid View"
+msgstr ""
+
+#: inc/woocommerce/init.php:159
+msgid "List View"
+msgstr ""
+
+#: inc/woocommerce/init.php:259
+#, php-format
+msgid "Customer Reviews (%d)"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+msgid "Submit Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:32
+msgid "Edit title"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:41
+msgid "Save"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:73
+msgid "Items"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:79 woocommerce/cart/cart.php:48
+#: woocommerce/cart/cart.php:107
+msgid "Price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:100
+msgid "Stock Status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:112
+msgid "Buy Now"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:169
+msgid "Free!"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:178 woocommerce/wishlist-view.php:246
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:188
+msgid "Out of Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:191
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:202
+#, php-format
+msgid "Added on : %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:214
+msgid "Move"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:226
+msgid "Shared"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:229
+msgid "Private"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:232
+msgid "Public"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:256
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:273
+msgid "Add the selected products to the cart"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:281
+msgid "Ask for an estimate"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:39
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:47
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47 woocommerce/cart/cart.php:66
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:49 woocommerce/cart/cart.php:113
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:50 woocommerce/cart/cart.php:130
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:91
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:98 woocommerce/cart/mini-cart.php:40
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:148
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:154
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:19
+msgid "Shopping Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:65
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:73
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:78
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:79
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:20
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/no-products-found.php:16
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: woocommerce/loop/orderby.php:17
+msgid "Sort By"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:27 woocommerce/myaccount/orders.php:62
+msgid "View"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:35
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:49
+msgid "&infin;"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:57
+msgid "Never"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:65
+msgid "Download"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:87 woocommerce/myaccount/orders.php:108
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:89 woocommerce/myaccount/orders.php:110
+msgid "Go Shop"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:26
+#: woocommerce/myaccount/form-login.php:63
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:35
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:49
+#: woocommerce/myaccount/form-login.php:84
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:74
+#: woocommerce/myaccount/form-login.php:91
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email or Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:93
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:97
+msgid "Forgot your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:21
+msgid "Reset your password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:23
+msgid "We will send you an email to reset your password."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:35
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Back to login"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:41
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:51
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/orders.php:58
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:34
+msgid "Brand:"
+msgid_plural "Brands:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:37
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:31
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:36
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:17
+msgid "Product Description"
+msgstr ""

@@ -1,0 +1,257 @@
+/*========================================================
+					 Page Template Style
+==========================================================*/
+
+#ht-container {
+	transition: all .4s;
+}
+
+#ht-container.opened {
+	transform: translateX(-300px);
+}
+
+.home .entry-title {
+	display: none;
+}
+
+/*breadcrumb view page*/
+.page-template-page-breadcrumb-view {
+	.main-content.breadcrumb-view {
+		margin-top: 0;
+	}
+}
+
+/*Full page with breadcrumb*/
+.page-template-page-full,
+.page-template-page-full-breadcrumb {
+	.main-content.full-page-content {
+		margin-top: 0;
+
+		#breadcrumb-wrapper {
+			margin-bottom: 0;
+		}
+	}
+}
+
+/* 404 Page */
+.error-page {
+	.error-banner {
+		margin-top: 40px;
+
+		img {
+			display: block;
+			margin: 0 auto;
+		}
+	}	
+
+	h1.page-title {
+		text-align: center;
+		margin-top: 30px;
+	}
+}
+
+/* page comments setting */
+.main-content {
+	.post-comments {
+		margin-top: 20px;
+		border-bottom: 1px solid #dddddd;
+
+		h3 {
+			color: #fa5555;
+			font-size: 1.8em;
+			font-weight: normal;
+			margin-bottom: 20px;
+
+			i {
+				margin-right: 7px;
+			}
+		}
+
+		ul.comments {
+			> li {
+				clear: both;
+				padding: 10px 0 0 115px;
+
+				.comment-body {
+					margin-bottom: 10px;
+
+					.img-thumbnail {
+						position: absolute;
+						margin-left: -115px;
+					}
+				}
+			}
+
+			.comment-block {
+				background: #f4f4f4;
+				border-radius: 0;
+				padding: 20px 20px 35px;
+				position: relative;
+
+				.comment-by {
+					display: block;
+					font-size: 1em;
+					line-height: 21px;
+					margin: 0;
+					padding: 0 0 5px 0;
+				}
+
+				p {
+					font-size: 0.9em;
+					line-height: 21px;
+					margin: 0;
+					padding: 0;
+				}
+
+				.date {
+					color: #999999;
+					font-weight: 0.9em;
+					margin-top: 5px;
+				}
+			}
+
+			.comment-arrow {
+				border-bottom: 15px solid transparent;
+			    border-right: 15px solid #f4f4f4;
+			    left: -15px;
+			    border-top: 15px solid transparent;
+			    height: 0;
+			    position: absolute;
+			    top: 28px;
+			    width: 0;
+			}
+
+			ul.children {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+
+				> li {
+					clear: both;
+					padding: 10px 0 0 115px;
+
+					.comment-body {
+						margin-bottom: 10px;
+
+						.img-thumbnail {
+							position: absolute;
+							margin-left: -115px;
+						}
+					}
+				}
+			}
+		}
+	}
+
+	.comment-respond {
+		margin-top: 25px;
+		padding: 20px 0 15px 0;
+
+		h3 {
+			color: #fa5555;
+			font-size: 1.8em;
+			font-weight: normal;
+			margin-bottom: 20px;
+		}
+
+		.comment-form {
+			.logged-in-as {
+				margin: 0 0 20px;
+
+				a:hover {
+					text-decoration: underline;
+				}
+			}
+
+			.comment-form-comment {
+				label {
+					display: block;
+					color: #777777;
+					display: block;
+					font-family: Lato;
+					margin-bottom: 5px;
+					padding: 0;
+				}
+
+				textarea {
+					width: 100%;
+					border-radius: 0;
+				}
+			}
+
+			.form-submit {
+				input {
+					background: #fa5555;
+					border: none;
+					border-radius: 0;
+					color: #ffffff;
+					font-family: Lato;
+					font-size: 1.3em;
+					font-weight: normal;
+					padding: 0.6em 0.9em;
+					width: initial;
+					transition: all .3s;
+				}
+
+				input:hover {
+					background: #e5e5e5;
+					color: #666666;
+				}
+			}
+
+			p {
+				color: #777777;
+
+				label {
+					display: block;
+					padding: 0;
+					margin-bottom: 5px;
+				}
+
+				input {
+					width: 100%;
+					border-radius: 0;
+				}
+			}
+		}
+
+	}
+}
+
+/* page order/unorder list setting */
+// .main-content {
+// 	.entry-content-page {
+// 		ul {
+// 			padding-left: 15px;
+
+// 			li {
+// 				list-style-type: square;
+// 			}
+// 		}
+
+// 		ol {
+// 			padding-left: 15px;
+
+// 			li {
+// 				list-style-type: decimal;
+// 			}
+// 		}
+// 	}
+
+// 	dl {
+// 		display: block;
+// 	    -webkit-margin-before: 1em;
+// 	    -webkit-margin-after: 1em;
+// 	    -webkit-margin-start: 0px;
+// 	    -webkit-margin-end: 0px;
+
+// 	    dt {
+// 	    	display: block;
+// 	    }
+// 	}
+
+// 	dd {
+// 		display: block;
+//         -webkit-margin-start: 40px;
+// 	}
+// }

@@ -1,0 +1,136 @@
+/*========================================================
+					Wishlist Page Style
+==========================================================*/
+
+.wishlist-page {
+	#yith-wcwl-form {
+		.woocommerce-message {
+			display: none;
+		}
+
+		table.wishlist_table {
+			border: none;
+			border-collapse: collapse;
+
+			tr, th, td {
+				border: none;
+			}
+
+			thead {
+				background: transparent;
+			}
+
+			th, td {
+				border: 1px solid #e5e5e5;
+				text-align: center;
+			}
+
+			th {
+				padding: 10px 15px;
+				text-transform: uppercase;
+				font-weight: 700;
+				color: #2c2c2c;
+				font-size: 14px;
+			}
+
+			td {
+				padding: 30px 15px;
+			}
+
+			td.product-name {
+				text-align: left;
+
+				.img_item {
+					float: left;
+					margin: 0 20px 0 0;
+
+					img {
+						width: 85px;
+					}
+				}
+
+				.info_item {
+					float: left;
+
+					a {
+						color: #444444;
+						font-size: 14px;
+						font-weight: 700;
+						text-transform: uppercase;
+						transition: all .3s;
+					}
+
+					a:hover {
+						color: #fa5555;
+					}
+				}
+			}
+
+			td.product-price {
+				color: #2c2c2c;
+				font-size: 22px;
+				font-weight: bold;
+				font-family: Lato;
+			}
+
+			td.product-remove {
+				a {
+					background: #2c2c2c;
+					color: #ffffff !important;
+					line-height: 15px;
+					margin: 0 auto;
+					transition: all .3s;
+				}
+
+				a:hover {
+					background: #fa5555;
+				}
+			}
+
+			td.product-stock-status {
+				font-family: Lato;
+				font-size: 14px;
+				font-weight: 700;
+			}
+
+			td.product-add-to-cart {
+				.add-btns-wrap {
+					.yith-wcwl-add-to-wishlist {
+						display: none;
+					}
+
+					.add-btn a {
+						background: transparent;
+						border: 1px solid #cccccc;
+						border-radius: 0;
+						color: #696969;
+						display: initial !important;
+						font-size: 11px;
+						padding: 7px 15px;
+						text-transform: uppercase;
+						transition: all .3s;
+
+						&.loading:after {
+							background: #fff url(../images/ajax-loader@2x.gif) no-repeat scroll center center / 1.1em 1.1em;
+						    border-radius: 0;
+						    opacity: 0.5;
+						    position: absolute;
+						    left: 0;
+						    right: 0;
+						    top: 0;
+						    bottom: 0;
+						    content: "";
+						    animation: none;
+						}
+					}
+
+					.add-btn a:hover {
+						background: #fa5555;
+						border-color: #fa5555;
+						color: #ffffff;
+					}
+				}
+			}
+		}
+	}
+}
